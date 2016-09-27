@@ -1,0 +1,10 @@
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.Model\bin\Debug\TencentMsg.Model.dll
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.Model\bin\Debug\TencentMsg.Model.pdb
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.Model\obj\Debug\TencentMsg.Model.dll
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.Model\obj\Debug\TencentMsg.Model.pdb
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.Model\obj\Debug\TencentMsg.Model.csprojResolveAssemblyReference.cache
+E:\代码\TencentMsg\TencentMsg\TencentMsg.Model\bin\Debug\TencentMsg.Model.dll
+E:\代码\TencentMsg\TencentMsg\TencentMsg.Model\bin\Debug\TencentMsg.Model.pdb
+E:\代码\TencentMsg\TencentMsg\TencentMsg.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\代码\TencentMsg\TencentMsg\TencentMsg.Model\obj\Debug\TencentMsg.Model.dll
+E:\代码\TencentMsg\TencentMsg\TencentMsg.Model\obj\Debug\TencentMsg.Model.pdb

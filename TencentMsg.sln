@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TencentMsg.Web", "TencentMsg.Web\", "{6AF36EA9-1D00-4DDB-BCCA-DD002C682A11}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{A3597FB9-61FB-44E5-8577-7F961B0E9D2A}|TencentMsg.BLL.dll;{FFF6F9CF-45B6-4ACC-9960-BF27B8958D37}|TencentMsg.Common.dll;{79D60D37-2AB9-4DD8-B635-164CE3319643}|TencentMsg.Model.dll;{B50BFCD9-992D-464C-86E9-5E483E38A22A}|TencentMsg.DAL.dll;{E57FAD60-6A2E-4E3F-9CA9-8101641298A3}|TencentMsg.IBLL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/TencentMsg.Web"
+		Debug.AspNetCompiler.PhysicalPath = "TencentMsg.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TencentMsg.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TencentMsg.Web"
+		Release.AspNetCompiler.PhysicalPath = "TencentMsg.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TencentMsg.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "10301"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMsg.BLL", "TencentMsg.BLL\TencentMsg.BLL.csproj", "{A3597FB9-61FB-44E5-8577-7F961B0E9D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMsg.IBLL", "TencentMsg.IBLL\TencentMsg.IBLL.csproj", "{E57FAD60-6A2E-4E3F-9CA9-8101641298A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMsg.DAL", "TencentMsg.DAL\TencentMsg.DAL.csproj", "{B50BFCD9-992D-464C-86E9-5E483E38A22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMsg.Common", "TencentMsg.Common\TencentMsg.Common.csproj", "{FFF6F9CF-45B6-4ACC-9960-BF27B8958D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentMsg.Model", "TencentMsg.Model\TencentMsg.Model.csproj", "{79D60D37-2AB9-4DD8-B635-164CE3319643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF36EA9-1D00-4DDB-BCCA-DD002C682A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF36EA9-1D00-4DDB-BCCA-DD002C682A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF36EA9-1D00-4DDB-BCCA-DD002C682A11}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF36EA9-1D00-4DDB-BCCA-DD002C682A11}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A3597FB9-61FB-44E5-8577-7F961B0E9D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3597FB9-61FB-44E5-8577-7F961B0E9D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3597FB9-61FB-44E5-8577-7F961B0E9D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3597FB9-61FB-44E5-8577-7F961B0E9D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57FAD60-6A2E-4E3F-9CA9-8101641298A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57FAD60-6A2E-4E3F-9CA9-8101641298A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57FAD60-6A2E-4E3F-9CA9-8101641298A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57FAD60-6A2E-4E3F-9CA9-8101641298A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50BFCD9-992D-464C-86E9-5E483E38A22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50BFCD9-992D-464C-86E9-5E483E38A22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50BFCD9-992D-464C-86E9-5E483E38A22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50BFCD9-992D-464C-86E9-5E483E38A22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF6F9CF-45B6-4ACC-9960-BF27B8958D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF6F9CF-45B6-4ACC-9960-BF27B8958D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF6F9CF-45B6-4ACC-9960-BF27B8958D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF6F9CF-45B6-4ACC-9960-BF27B8958D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D60D37-2AB9-4DD8-B635-164CE3319643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D60D37-2AB9-4DD8-B635-164CE3319643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D60D37-2AB9-4DD8-B635-164CE3319643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D60D37-2AB9-4DD8-B635-164CE3319643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

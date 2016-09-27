@@ -1,0 +1,14 @@
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.IBLL.dll
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.IBLL.pdb
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.Model.dll
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.Model.pdb
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.IBLL\obj\Debug\TencentMsg.IBLL.csprojResolveAssemblyReference.cache
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.IBLL\obj\Debug\TencentMsg.IBLL.dll
+F:\我的项目\TencentMsg\TencentMsg\TencentMsg.IBLL\obj\Debug\TencentMsg.IBLL.pdb
+E:\代码\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.IBLL.dll
+E:\代码\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.IBLL.pdb
+E:\代码\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.Model.dll
+E:\代码\TencentMsg\TencentMsg\TencentMsg.IBLL\bin\Debug\TencentMsg.Model.pdb
+E:\代码\TencentMsg\TencentMsg\TencentMsg.IBLL\obj\Debug\ResolveAssemblyReference.cache
+E:\代码\TencentMsg\TencentMsg\TencentMsg.IBLL\obj\Debug\TencentMsg.IBLL.dll
+E:\代码\TencentMsg\TencentMsg\TencentMsg.IBLL\obj\Debug\TencentMsg.IBLL.pdb

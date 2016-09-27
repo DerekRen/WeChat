@@ -1,0 +1,58 @@
+﻿2015-02-06 10:44:18, 
+-------------------------------------------------------------------------------
+请求时间:2015-02-06 10:44:18
+
+异常信息:System.Web.HttpUnhandledException (0x80004005): 引发类型为“System.Web.HttpUnhandledException”的异常。 ---> System.IO.DirectoryNotFoundException: 未能找到路径“E:\代码\TencentMsg\TencentMsg\TencentMsg.Web\Test\App_Data\LogException\”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   在 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler)
+   在 System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   在 System.IO.DirectoryInfo.GetDirectories()
+   在 SceneryJobConfiguration_LogQuery.BindTree() 位置 e:\代码\TencentMsg\TencentMsg\TencentMsg.Web\Test\LogQuery.aspx.cs:行号 41
+   在 SceneryJobConfiguration_LogQuery.Page_Load(Object sender, EventArgs e) 位置 e:\代码\TencentMsg\TencentMsg\TencentMsg.Web\Test\LogQuery.aspx.cs:行号 20
+   在 System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.HandleError(Exception e)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.ProcessRequest()
+   在 System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   在 System.Web.UI.Page.ProcessRequest(HttpContext context)
+   在 ASP.test_logquery_aspx.ProcessRequest(HttpContext context) 位置 c:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\a6e996f4\431a0b37\App_Web_mpvnnuny.2.cs:行号 0
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+-------------------------------------------------------------------------------
+
+2015-02-06 10:44:22, 
+-------------------------------------------------------------------------------
+请求时间:2015-02-06 10:44:22
+
+异常信息:System.Web.HttpUnhandledException (0x80004005): 引发类型为“System.Web.HttpUnhandledException”的异常。 ---> System.IO.DirectoryNotFoundException: 未能找到路径“E:\代码\TencentMsg\TencentMsg\TencentMsg.Web\Test\App_Data\LogException\”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   在 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler)
+   在 System.IO.DirectoryInfo.InternalGetDirectories(String searchPattern, SearchOption searchOption)
+   在 System.IO.DirectoryInfo.GetDirectories()
+   在 SceneryJobConfiguration_LogQuery.BindTree() 位置 e:\代码\TencentMsg\TencentMsg\TencentMsg.Web\Test\LogQuery.aspx.cs:行号 41
+   在 SceneryJobConfiguration_LogQuery.Page_Load(Object sender, EventArgs e) 位置 e:\代码\TencentMsg\TencentMsg\TencentMsg.Web\Test\LogQuery.aspx.cs:行号 20
+   在 System.Web.Util.CalliHelper.EventArgFunctionCaller(IntPtr fp, Object o, Object t, EventArgs e)
+   在 System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   在 System.Web.UI.Control.OnLoad(EventArgs e)
+   在 System.Web.UI.Control.LoadRecursive()
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.HandleError(Exception e)
+   在 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   在 System.Web.UI.Page.ProcessRequest()
+   在 System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   在 System.Web.UI.Page.ProcessRequest(HttpContext context)
+   在 ASP.test_logquery_aspx.ProcessRequest(HttpContext context) 位置 c:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Temporary ASP.NET Files\root\a6e996f4\431a0b37\App_Web_mpvnnuny.2.cs:行号 0
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+-------------------------------------------------------------------------------
+
