@@ -21,7 +21,7 @@
     <textarea id="json_input" rows="30" cols="100" spellcheck="false" runat="server"></textarea>
     <div id="div_show" runat="server"></div>
         <br />
-        <asp:Button ID="Button1" runat="server" Text="测试发送" OnClick="Button1_Click" /><br />
+        <asp:Button ID="Button1" runat="server" Text="测试发送1" OnClick="Button1_Click" /><br />
     <asp:Button ID="Button2" runat="server" Text="移除缓存" onclick="Button2_Click" />
     <asp:Button ID="Button3" runat="server" Text="测试get发送" 
         onclick="Button3_Click" />
